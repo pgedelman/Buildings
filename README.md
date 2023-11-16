@@ -2,11 +2,11 @@ Paul Edelman
 pedelman@udel.edu
 
 Phase 1:
-- [ ] Create background of the game
-- [ ] Create scale at the bottom
-- [ ] Create slicer at the top of the screen
-- [ ] Create text box and functionality for the box on the scale
-- [ ] Create point system to track until you lose
+- [x] Create background of the game
+- [x] Create scale at the bottom
+- [x] Create slicer at the top of the screen
+- [x] Create text box and functionality for the box on the scale
+- [x] Create point system to track until you lose
       
 Phase 2:
 - [ ] Make slicer available to move up and down the screen when at the endpoints
