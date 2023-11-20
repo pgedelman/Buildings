@@ -1,6 +1,8 @@
 Paul Edelman
 pedelman@udel.edu
 
+Milestone 1/2: https://youtu.be/FhvqLAC9bK8
+
 Phase 1:
 - [x] Create background of the game
 - [x] Create scale at the bottom
