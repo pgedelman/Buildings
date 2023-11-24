@@ -17,7 +17,12 @@ Phase 2:
 - [x] Make objects that get to the other side cause you to lose one of 3 points
       
 Phase 3:
-- [ ] Make coins/weight drop when slicer and objects collide
-- [ ] Create bad animation process for when the objects are cut
-- [ ] Make objects move faster as time goes on
-- [ ] Cause game to end after losing 3 points
+- [x] Make weight drop when slicer and objects collide
+- [x] Make the dropped weight weigh more as the objects get faster
+- [x] Make objects move faster as time goes on
+- [x] Cause game to end after losing 5 points
+
+
+Sources:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vexels.com%2Fpng-svg%2Fpreview%2F140912%2Forange-cartoon&psig=AOvVaw3BMQecPPYlFw39jDeqdoHF&ust=1700854072516000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDozKvt2oIDFQAAAAAdAAAAABAI
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F49426&psig=AOvVaw1jmfNUamB8FQD1oIZBbnSU&ust=1700854002295000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODmq4nt2oIDFQAAAAAdAAAAABAD
