@@ -24,5 +24,12 @@ Phase 3:
 
 
 Sources:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vexels.com%2Fpng-svg%2Fpreview%2F140912%2Forange-cartoon&psig=AOvVaw3BMQecPPYlFw39jDeqdoHF&ust=1700854072516000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDozKvt2oIDFQAAAAAdAAAAABAI
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F49426&psig=AOvVaw1jmfNUamB8FQD1oIZBbnSU&ust=1700854002295000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODmq4nt2oIDFQAAAAAdAAAAABAD
+Orange Image: https://www.vexels.com/png-svg/preview/140912/orange-cartoon
+
+Apple Image: https://www.freeiconspng.com/img/49426
+
+Pear Image: https://in.pinterest.com/pin/avocado-cartoon-clipart-vector-avocado-vector-cartoon-illustration-avocado-vector-cartoon-png-image-for-free-download-in-2023--336433034679074350/
+
+Blueberry Image: https://www.cleanpng.com/png-european-blueberry-clip-art-fruit-portable-network-7073584/
+
+Scale Image: https://www.seekpng.com/idown/u2e6e6u2o0r5u2r5_clip-digital-weighing-scale-cartoon/
