@@ -6,7 +6,7 @@ Put weight on the scale by slicing through fruit.
 
 ### About
 
-In Weight Scale, you control a slicer that can cut through fruit. The fruit are flying across the screen and it is the players job to slice them down. When the fruit get sliced, they drop their meat which weighs different amounts, and they hit a scale, increasing the weight. If five fruit cross the entire screen without being sliced, the game is over. 
+In the Normal mode of Weight Scale, you control a slicer that can cut through fruit. The fruit are flying across the screen and it is the players job to slice them down. When the fruit get sliced, they drop their meat which weighs different amounts, and they hit a scale, increasing the weight. If five fruit cross the entire screen without being sliced, the game is over. In the Bug mode your object is gain weight by using the slicer to only cut through fruit, and you only lose lives when you cut through bugs. 
 
 ### Preview 
 
@@ -14,7 +14,7 @@ A "Preview" section with a gameplay video with footage of your game. You can use
 
 ### Instructions
 
-You can control the slicer using the spacebar key, moving it up if it is at the bottom or down if it is at the top. 
+When starting the game, you can select either the Normal mode or Bug mode by using either the 'n' or 'b' key. You can control the slicer using the spacebar key, moving it up if it is at the bottom or down if it is at the top. 
 
 ### Authors
 
@@ -34,6 +34,10 @@ Pear Image: https://in.pinterest.com/pin/avocado-cartoon-clipart-vector-avocado-
 Blueberry Image: https://www.cleanpng.com/png-european-blueberry-clip-art-fruit-portable-network-7073584/
 
 Scale Image: https://www.seekpng.com/idown/u2e6e6u2o0r5u2r5_clip-digital-weighing-scale-cartoon/
+
+Green Splatter: https://gallery.yopriceville.com/Free-Clipart-Pictures/Decorative-Elements-PNG/Green_Paint_Splatter_PNG_Clipart
+
+Splatter: https://static.vecteezy.com/system/resources/previews/024/864/715/original/water-splash-element-illustration-cartoon-or-comic-style-cartoon-element-comic-element-png.png
 
 ### Task List
 
