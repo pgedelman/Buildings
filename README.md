@@ -10,7 +10,7 @@ In the Normal mode of Weight Scale, you control a slicer that can cut through fr
 
 ### Preview 
 
-A "Preview" section with a gameplay video with footage of your game. You can use OBSLinks to an external site., Zoom, or any other reasonable solution to create and upload the video to YouTube, then link the video directly into your markdown file. You may not record the game on your cellphone. You are free to additionally take screenshots of your game too.
+https://youtu.be/aCaPk7UVGWY
 
 ### Instructions
 
@@ -37,7 +37,7 @@ Scale Image: https://www.seekpng.com/idown/u2e6e6u2o0r5u2r5_clip-digital-weighin
 
 Green Splatter: https://gallery.yopriceville.com/Free-Clipart-Pictures/Decorative-Elements-PNG/Green_Paint_Splatter_PNG_Clipart
 
-Splatter: https://static.vecteezy.com/system/resources/previews/024/864/715/original/water-splash-element-illustration-cartoon-or-comic-style-cartoon-element-comic-element-png.png
+Blue Splatter: https://static.vecteezy.com/system/resources/previews/024/864/715/original/water-splash-element-illustration-cartoon-or-comic-style-cartoon-element-comic-element-png.png
 
 ### Task List
 
